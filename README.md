@@ -1,4 +1,5 @@
 # Scripts
 ## Scripts para Despliegue de aplicaciones web
 
-1. Instalación de Tomcat
+1. Instalación Tomcat
+2. Script Instancia
